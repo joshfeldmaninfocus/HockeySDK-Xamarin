@@ -1,3 +1,6 @@
+If building this project on Windows, make sure to first install the Cake Build Tools: https://cakebuild.net/docs/tutorials/setting-up-a-new-project
+
+
 ## Version 5.1.2
 
 HockeySDK-Xamarin implements support for HockeyApp in your iOS and Android applications.
